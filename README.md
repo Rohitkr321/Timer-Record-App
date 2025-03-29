@@ -22,7 +22,7 @@ A simple and intuitive Timer App built using **React Native**. This app allows u
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/timer-app.git
+   git clone https://github.com/Rohitkr321/Timer-Record-App
    cd timer-app
    ```
 2. Install dependencies:
@@ -49,10 +49,19 @@ TimerApp/
 │   ├── TimerProgress.js # Progress Indicator
 │-- screens/
 │   ├── HomeScreen.js    # Main Screen with timers
+│   ├── HistoryScreen.js # Displays previously completed timers
+│   ├── AddTimerScreen.js # Screen to create and configure new timers
 │-- assets/              # Static assets
 │-- App.js               # Entry point
 │-- README.md            # Project documentation
 ```
+
+## Screens
+### HistoryScreen
+The **HistoryScreen** allows users to view previously completed timers. It fetches stored timers from `AsyncStorage` and displays them in a list format. Users can track their past timer sessions easily.
+
+### AddTimerScreen
+The **AddTimerScreen** provides an interface for users to create and configure new timers. Users can set a duration, customize the timer name, and start tracking time immediately.
 
 ## Dependencies
 - `react-native` - Core framework
@@ -67,10 +76,7 @@ Dark mode is automatically applied based on system settings. It adapts UI elemen
 - **Backgrounds**: Containers adjust for dark mode aesthetics.
 - **Status Colors**: "Running" stays red, "Completed" stays green, and "Paused" adapts to dark mode.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-**Author:** Your Name  
+**Author:** Rohit Kumar
 🚀 Built with ❤️ using React Native
 
