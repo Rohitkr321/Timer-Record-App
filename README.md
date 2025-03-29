@@ -80,3 +80,7 @@ Dark mode is automatically applied based on system settings. It adapts UI elemen
 **Author:** Rohit Kumar
 🚀 Built with ❤️ using React Native
 
+## Some Screenshots Of TimerApp
+
+### Home Screen
+![Home Screen](assets/Home-Light_Mode.jpg)
