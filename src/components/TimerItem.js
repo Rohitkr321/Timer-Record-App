@@ -78,7 +78,7 @@ export default function TimerItem({ timer = {}, onUpdate = () => { }, category }
       <View style={styles.header}>
         <Text style={[styles.timerName, isDarkMode ? styles.darkText : styles.lightText]}>{timer.name}</Text>
         <Text style={[styles.remainingTime, remaining <= 10 && status === "Running" ? styles.nearEndTime : null]}>
-          {remaining}
+          {remaining} Sec
         </Text>
       </View>
 

@@ -82,5 +82,44 @@ Dark mode is automatically applied based on system settings. It adapts UI elemen
 
 ## Some Screenshots Of TimerApp
 
-### Home Screen
-![Home Screen](assets/Home-Light_Mode.jpg)
+### Home Screen Light Mode
+<p align="center">
+  <img src="assets/Home-Light-Mode.jpg" width="30%" />
+  <img src="assets/Home-Screen-Timer-Light-Mode.jpg" width="30%" />
+  <img src="assets/Home-Screen-Runing-Timer-Light-Mode.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="assets/Home-Screen-Alert-Timer-Light-Mode.jpg" width="30%" />
+  <img src="assets/Home-Screen-Completed-Timer-Light-Mode.jpg" width="30%" />
+</p>
+
+### History Screen Light Mode
+<p align="center">
+  <img src="assets/History-Light-Mode.jpg" width="50%" />
+</p>
+
+### Add Timer Screen Light Mode
+<p align="center">
+  <img src="assets/AddTimer-Light-Mode.jpg" width="30%" />
+  <img src="assets/AddTimer-Deatils-Light-Mode.jpg" width="30%" />
+</p>
+
+
+
+### Home Screen Dark Mode
+<p align="center">
+  <img src="assets/Home-Dark-Mode.jpg" width="30%" />
+  <img src="assets/Home-Screen-Timer-Dark-Mode.jpg" width="30%" />
+</p>
+
+### History Screen Dark Mode
+<p align="center">
+  <img src="assets/History-Dark-Mode.jpg" width="50%" />
+</p>
+
+### Add Timer Screen Dark Mode
+<p align="center">
+  <img src="assets/AddTimer-Dark-Mode.jpg" width="30%" />
+</p>
+
